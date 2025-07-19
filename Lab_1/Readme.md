@@ -9,9 +9,6 @@ Scenario: Company Directory Setup for a Fictional Business
  CyberCorp has 5 departments and 15 employees. Each department has 3 staff members. Only the C-Level department should have full access to all files across all departments. 
 
  
-To access file, please click here 
-
- 
 Deliverables Summary  
 
 A text document with: 
