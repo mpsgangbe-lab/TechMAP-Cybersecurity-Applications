@@ -22,4 +22,4 @@ Contact Information: 240-978-3041
 
 📧 Email: mgangbe@montgomerycollege.edu; mpsgangbe@gmail.com
 
-🔗 LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/GangbeMaximePhilippe]
+🔗 LinkedIn: (https://www.linkedin.com/in/GangbeMaximePhilippe]
