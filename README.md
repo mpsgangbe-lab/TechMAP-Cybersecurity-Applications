@@ -10,7 +10,7 @@ A Collection of Labs & Projects
 
 Submitted by:
 
-🧑 Full Name: John Doe
+🧑 Full Name: Maxime Philippe Gangbe
 
 📅 Date: June 18, 2025
 
@@ -18,8 +18,8 @@ Submitted by:
 
 🏫 Program: Cybersecurity Workforce Development Bootcamp Summer I
 
-Contact Information (Optional):
+Contact Information: 240-978-3041
 
-📧 Email: johndoe@example.com
+📧 Email: mgangbe@montgomerycollege.edu; mpsgangbe@gmail.com
 
-🔗 LinkedIn (optional): linkedin.com/in/johndoe
+🔗 LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/GangbeMaximePhilippe]
